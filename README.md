@@ -1,0 +1,1 @@
+# Exemplos de conexões com Banco de Dados MySQL
