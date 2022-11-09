@@ -11,7 +11,7 @@ public class TesteBD {
         ManipularDados.listarLogins();
 //        ManipularDados.removerLogin("1");
 //        ManipularDados.inserirLogin("reginaldo", "12345", "reginaldo.com.br");
-//        ManipularDados.alterarLogin("2", "solar2", "Claro@2022", "https://clarobrasil3.test.etadirect.com/mobility/");
+//        ManipularDados.alterarLogin("2", "", "", "");
     }
 
 }
